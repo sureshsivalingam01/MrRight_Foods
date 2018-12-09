@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_icons8_india_48px"
+        android:title="@string/title_indian" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/icons8_china_48px"
+        android:title="@string/title_chinese" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/icons8_italy_48px"
+        android:title="@string/title_italian" />
+
+</menu>
